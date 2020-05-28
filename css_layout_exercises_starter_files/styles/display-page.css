@@ -1,0 +1,49 @@
+main{
+	padding: 30px;
+
+	font-size: 0;
+	}
+
+.container{
+  width: 800px;
+  height: 500px;
+  border: 1px black solid;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+.inner{
+
+	height: 200px;
+	width: 50%;
+	display: inline-block;
+	font-size: 0;
+}
+
+.lower-inner{
+	height: 300px;
+	width: 33%;
+	display:inline-block;
+	font-size: 0;
+}
+
+.inner-one{
+	background-color: green;
+}
+
+.inner-two{
+	background-color: blue;
+}
+
+.inner-three{
+	background-color: grey;
+}
+
+.inner-four{
+	background-color: black;
+}
+
+.inner-five{
+	background-color: orange;
+}
